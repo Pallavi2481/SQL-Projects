@@ -1,0 +1,7 @@
+-- SQL Queries
+
+SHOW DATABASES;
+
+USE StudentDB;
+
+SHOW TABLES;

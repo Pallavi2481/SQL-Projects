@@ -3,3 +3,9 @@ SHOW DATABASES;
 USE HospitalDB;
 
 SHOW TABLES;
+DESCRIBE Patient;
+DESCRIBE Doctor;
+DESCRIBE Appointment;
+DESCRIBE Medicine;
+DESCRIBE Prescription;
+DESCRIBE Billing;
